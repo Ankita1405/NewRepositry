@@ -55,3 +55,14 @@ E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\runtimes\win\lib\netst
 E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
 E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\OurProducts.deps.json
+E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\OurProducts.runtimeconfig.json
+E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\OurProducts.runtimeconfig.dev.json
+E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\OurProducts.dll
+E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\OurProducts.pdb
+E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\OurProducts.Views.dll
+E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\OurProducts.Views.pdb
+E:\Gitpro\OurProducts\OurProducts\obj\Debug\netcoreapp3.1\OurProducts.MvcApplicationPartsAssemblyInfo.cache
+E:\Gitpro\OurProducts\OurProducts\obj\Debug\netcoreapp3.1\OurProducts.Views.pdb
+E:\Gitpro\OurProducts\OurProducts\obj\Debug\netcoreapp3.1\OurProducts.dll
+E:\Gitpro\OurProducts\OurProducts\obj\Debug\netcoreapp3.1\OurProducts.pdb

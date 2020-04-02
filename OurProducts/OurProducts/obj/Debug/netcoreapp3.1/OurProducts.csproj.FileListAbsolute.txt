@@ -159,3 +159,8 @@ E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnaly
 E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Gitpro\OurProducts\OurProducts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Gitpro\OurProducts\OurProducts\obj\Debug\netcoreapp3.1\OurProducts.MvcApplicationPartsAssemblyInfo.cache
+E:\Gitpro\OurProducts\OurProducts\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+E:\Gitpro\OurProducts\OurProducts\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+E:\Gitpro\OurProducts\OurProducts\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+E:\Gitpro\OurProducts\OurProducts\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+E:\Gitpro\OurProducts\OurProducts\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
